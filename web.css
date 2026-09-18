@@ -1,0 +1,33 @@
+@media only screen and (min-width: 600px) {
+/*awal*/
+.wadahe > div > b {
+white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.wadahe > div > a {    
+}
+.penutupnavbar {
+right: 300px;
+}
+.sektorpengaturanclass {
+width: 300px;
+}
+.headergambarbanner {
+overflow-x: hidden;
+}
+.headergambarbannerhp {
+display: none;
+}
+.headergambarbannerweb {
+width: 100%;
+display: block;
+}
+.wadahe {
+display: flex;
+flex-wrap: wrap;
+}
+.wadahe > div {
+width: 300px;
+margin-right: 15px;
+}
+/*akhir*/
+}
